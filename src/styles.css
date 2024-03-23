@@ -1,0 +1,97 @@
+/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* Header Styles */
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+  }
+  
+  header h1 {
+    margin: 0;
+    font-size: 2.5em;
+    text-align: center;
+  }
+
+  header h2 {
+    text-align: center;
+    color: aquamarine;
+  }
+  
+  /* Navigation Styles */
+  nav {
+    background-color: #000;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    background-color: #00cc00; /* Green button color */
+  }
+  
+  nav ul li a:hover {
+    background-color: #009900; /* Darker green on hover */
+  }
+  
+  /* Button Styles */
+  .button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #00cc00;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .button:hover {
+    background-color: #009900;
+  }
+  
+  /* Footer Styles */
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  /* Additional Style (If using icons, install FontAwesome) */
+  /* 
+  You'll need to install FontAwesome for the icon styles. 
+  You can add this line to your index.html:
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+  */
+  .icon {
+    margin-right: 10px;
+  }
+  
