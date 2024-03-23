@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e5177307.css",
+    "main.js": "/static/js/main.1c7a3a88.js",
+    "static/js/453.08d46624.chunk.js": "/static/js/453.08d46624.chunk.js",
+    "static/media/logo.png": "/static/media/logo.6f20b8c5c6fa6c337adf.png",
+    "static/media/MsSimian.png": "/static/media/MsSimian.8df840f5e99c7f9c5f1a.png",
+    "static/media/valley.png": "/static/media/valley.2cc1039d38753ae47f22.png",
+    "static/media/MrBrown.png": "/static/media/MrBrown.b1398678164e63c38557.png",
+    "static/media/cyber.webp": "/static/media/cyber.b6e09258fd1a8ea2f975.webp",
+    "static/media/moonchild.png": "/static/media/moonchild.f5cf6e42cf100a1565ed.png",
+    "static/media/chinchilla.jpeg": "/static/media/chinchilla.6fff63dc877641d4ec9e.jpeg",
+    "static/media/football.webp": "/static/media/football.904eecdf931e24e2c9ff.webp",
+    "static/media/Ostrichracing.jpeg": "/static/media/Ostrichracing.86864338a73fd5195b3b.jpeg",
+    "static/media/MrSmall.png": "/static/media/MrSmall.0e1ad76065b5e7576904.png",
+    "static/media/origami.jpeg": "/static/media/origami.7cb7cd2b2ebcb44eff93.jpeg",
+    "static/media/hylian.jpeg": "/static/media/hylian.f9f41f6e91248f3bf842.jpeg",
+    "static/media/ChessBoxing.jpg": "/static/media/ChessBoxing.3c28c36d78bf363672b3.jpg",
+    "static/media/paint.jpeg": "/static/media/paint.4ff692a2d8a91033968a.jpeg",
+    "static/media/nurse.png": "/static/media/nurse.fd28830fc7d1bc1bb65a.png",
+    "static/media/rocky.webp": "/static/media/rocky.9a7f991903150e689a33.webp",
+    "index.html": "/index.html",
+    "main.e5177307.css.map": "/static/css/main.e5177307.css.map",
+    "main.1c7a3a88.js.map": "/static/js/main.1c7a3a88.js.map",
+    "453.08d46624.chunk.js.map": "/static/js/453.08d46624.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5177307.css",
+    "static/js/main.1c7a3a88.js"
+  ]
+}
