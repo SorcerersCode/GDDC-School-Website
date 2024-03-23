@@ -3,24 +3,24 @@
 ## Taking Care of Dependencies
 
 ### 1. Pull all of the files from this github onto local machine
-    -  `git clone https://github.com/SorcerersCode/GDDC-School-Website.git`
+-  `git clone https://github.com/SorcerersCode/GDDC-School-Website.git`
 ### 2. Install Node.js so the React framework can do it's thing
     1. Install nvm
-        - `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash`
+- `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash`
         - `source ~/.bashrc`
     2.  Use nvm to install node
         - `nvm install node`
         - `nvm alias default node`
 ### 3. Install npm
-    - `sudo apt install npm`
+- `sudo apt install npm`
 ### 4. Verify installations
-    - Check by running: `which npx`    
-    - If it's not installed or is old: `npm install -g npx`
-    - Also run
+- Check by running: `which npx`    
+- If it's not installed or is old: `npm install -g npx`
+- Also run
         `npm --version`
         `nodejs --version`
 ### 5. Install serve so the website can be hosted on the machine
-    - `sudo npm install -g serve`
+- `sudo npm install -g serve`
 
 
 ## Starting Up the Webpage
