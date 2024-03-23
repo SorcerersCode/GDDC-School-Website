@@ -15,7 +15,7 @@ function Athletics() {
             <li><a href="/">Home</a></li>
             <li><a href="/AboutUs">About Us</a></li>
             <li><a href="/Calendar&Events">Calendar & Events</a></li>
-            <li><a href="/Admissions">Admissions</a></li>
+            <li><a href="/Academics">Academics</a></li>
             <li><a href="/Athletics">Athletics</a></li>
             <li><a href="/ContactUs">Contact Us</a></li>
           </ul>
@@ -36,7 +36,7 @@ function Athletics() {
           <p>What kind of American school would we be without football?</p>
         </div>
 
-        
+
         <div className="sport">
           <img src={ostrich} alt="Ostrich Racing" />
           <h3>Ostrich Racing</h3>

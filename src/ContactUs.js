@@ -14,21 +14,21 @@ function ContactUs() {
       <header>
         <h1>Contact Us</h1>
         <nav>
-        <ul>
-          <li><a href="/">Home</a></li>
-          <li><a href="/AboutUs">About Us</a></li>
-          <li><a href="/Academics">Academics</a></li>
-          <li><a href="/Admissions">Admissions</a></li>
-          <li><a href="/Athletics">Athletics</a></li>
-          <li><a href="/ContactUs">Contact Us</a></li>
-        </ul>
-      </nav>
+          <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/AboutUs">About Us</a></li>
+            <li><a href="/Calendar&Events">Calendar & Events</a></li>
+            <li><a href="/Academics">Academics</a></li>
+            <li><a href="/Athletics">Athletics</a></li>
+            <li><a href="/ContactUs">Contact Us</a></li>
+          </ul>
+        </nav>
 
-      <h2>Meet Our Team</h2>
+        <h2>Meet Our Team</h2>
       </header>
 
       <section>
-        
+
         <div className="contact-person">
           <img src={brown} alt="Principal Brown" />
           <h3>Principal Brown</h3>
@@ -36,7 +36,7 @@ function ContactUs() {
           <p>Email: sbrown@elmore.com</p>
           <p>Phone: 555-2368</p>
         </div>
-        
+
         <div className="contact-person">
           <img src={sim} alt="Ms. Simian" />
           <h3>Ms.Simian</h3>
@@ -44,7 +44,7 @@ function ContactUs() {
           <p>Email: lsimian@elmore.com</p>
           <p>Phone: 555-2368</p>
         </div>
-        
+
         <div className="contact-person">
           <img src={small} alt="Mr.Small" />
           <h3>Mr.Small</h3>
@@ -76,7 +76,7 @@ function ContactUs() {
           <p>Email: mcorneille@elmore.com</p>
           <p>Phone: 555-2368</p>
         </div>
-        
+
       </section>
 
       <footer>

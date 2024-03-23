@@ -12,7 +12,7 @@ function AboutUs() {
             <li><a href="/">Home</a></li>
             <li><a href="/AboutUs">About Us</a></li>
             <li><a href="/Calendar&Events">Calendar & Events</a></li>
-            <li><a href="/Admissions">Admissions</a></li>
+            <li><a href="/Academics">Academics</a></li>
             <li><a href="/Athletics">Athletics</a></li>
             <li><a href="/ContactUs">Contact Us</a></li>
           </ul>
