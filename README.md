@@ -34,3 +34,9 @@
 
 Open [http://localhost:80](http://localhost:80) to view it in your browser.
 
+
+
+## Troubleshooting
+
+If there is a service version mismatch error with serve, try running:
+`npm install -g serve@latest`
